@@ -103,7 +103,7 @@
 
      [SDK](https://youtu.be/EyMuzKDEhYA)
 
-- ### **期望薪資**：面議，當前薪資 168 萬整年。
+- ### **期望薪資**：面議。
 
 - ### **工作心得分享Working Experience and Achievements**
 
