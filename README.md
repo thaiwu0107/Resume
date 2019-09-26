@@ -102,7 +102,7 @@
       4. music player from youtube and spotify－音樂播放器，採用 youtube 跟 spotify 在背景收聽的 App。
     
   
-- ### 參考
+- ### 作品參考
 
   1. nodejs 寫的 server 範例，以下是壓測數據，傳輸後端 json 轉成 binary 減少傳輸成本，到前端用自己開發的 SDK 再轉成 json 格式。
 
@@ -119,6 +119,10 @@
   4. 後端給遊戲前端的 SDK，技術文件撰寫，拆解遊戲需求，api 讓前端呼叫，可以讓前端專注在遊戲畫面開發。
 
      [SDK](https://youtu.be/EyMuzKDEhYA)
+  
+  5. 部分遊戲作品
+     [1](https://youtu.be/zcpFGeCGqXo)
+     [2](https://youtu.be/gDfycLjik1c?t=528)
 
 - ### **期望薪資**：面議。
 
