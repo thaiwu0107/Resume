@@ -59,8 +59,12 @@
       2. 使用  js  撰寫  cocos  前端使用的  SDK  讓前端不用處理怎麼跟公司的  websocket  server  通訊的機制，全部都由  SDK  統一處理，讓前端專心開發遊戲畫面，不用處理後端傳來的  buffer  格式轉成  js  object  的過程。
       3. 制定公司專用的  packet  layout  前後端傳輸的專用封包。
       4. golang  websocket  framework  底層封裝  MQ  溝通機制，做  cluster  時可以互相推播不同  server  上訂閱同一個主題的玩家。
+      5. 錢包系統重構：開發第二代錢包系統設計規劃。
+      6. 客服系統重構：開發第二代客服系統設計規劃。
     - 【**工作成就**】：
       1. Yggdrasill Framework  websocket 底層開發。
+      2. JS Client SDK for Websocket Server。
+      3. Golang Client SDK for Websocket Server。
   - #### **中極顧問- 技術主任  （管理５－８人）  2018 / 08 ~ 2019 / 10**
   
     - 【**專案開發**】：開發建置15款遊戲（撲克類與老虎機類）及後端架構，風險控制，RTP控制。
