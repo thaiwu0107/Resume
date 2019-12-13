@@ -60,7 +60,6 @@
       3. 制定公司專用的  packet  layout  前後端傳輸的專用封包。
       4. golang  websocket  framework  底層封裝  MQ  溝通機制，做  cluster  時可以互相推播不同  server  上訂閱同一個主題的玩家。
       5. 錢包系統重構：開發第二代錢包系統設計規劃。
-      6. 客服系統重構：開發第二代客服系統設計規劃。
     - 【**工作成就**】：
       1. Yggdrasill Framework  websocket 底層開發。
       2. JS Client SDK for Websocket Server。
@@ -317,7 +316,7 @@
     >
     > 
   
-  - #### 興旺國際(GPK) 網頁工程師兼客戶活動企劃
+  - #### 興旺國際(GPK 最早起源的母公司) 網頁工程師兼客戶活動企劃
   
     > 第二份工作是在一家線上博弈公司一開始應徵網頁前端 HTML 與 CSS 的開發。
     >
