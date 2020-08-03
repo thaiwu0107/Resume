@@ -62,7 +62,7 @@
       4. golang  websocket  framework  底層封裝  MQ  溝通機制，做  cluster  時可以互相推播不同  server  上訂閱同一個主題的玩家。
       5. 錢包系統重構：開發第二代錢包系統設計規劃。
       6. 老虎機、棋牌、魚機、麻將類遊戲平台開發、注單查詢平台開發、RTP 控制、風險控制系統開發。
-      7. 直接管理接近 30 人（純RD)，間接管理 45 人（包含美術）主要職責遊戲後端、注單 web 前後端、遊戲 cocos 前端、美術 2D、3D 管理分配任務時程。
+      7. 直接管理接近 30 人（純RD)，間接管理共 45 人（包含美術）主要職責遊戲後端、注單 web 前後端、遊戲 cocos 前端、美術 2D、3D 管理分配任務時程。
     - 【**工作成就**】：
       1. Yggdrasill Framework  websocket 底層開發。
       2. JS Client SDK for Websocket Server。
