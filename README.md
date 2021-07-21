@@ -43,15 +43,64 @@
 > 2. **團隊溝通順暢（注重人和，能傾聽他人想法、理解同理並提出解決辦法，細心指導)**
 > 3. **耐力佳，注動細節，細心，對於所負職責皆能盡心盡力完成，珍惜工作及技術上磨練，自我管理佳，能擔責並處理解決，主動性高。**
 
-- ### 擅長工具
 
-  ```
-  Java、Go、typescript , node , Node.js , koa2 , jira , JavaScript、HTML、VueJS、ssh、mock test , mock server , redis cluster , mysql , node cluster , nginx , pm2 , nosql, arangodb, game server, Android、Mac OS、Linux、OOP、OOAD、AJAX、Github、UML、Visual Studio、MySQL、ADO、RDBMS、PostgreSQL、Progress、TCP/IP、UDP、SOAP、Load Balancing、HTTP、Xmind、Draw、Google Analytics、Firebase、Tableau、CodeTest、Test Scripts、Version Control
-  ```
+### Skills:
 
+#### Computer Science:
+- [x] Algorithm
+- [x] Data Structure
+- [x] Web Server/Application Development
+- [x] Game Server
+- [x] Epoll/Reactor
+- [x] Multithreading
+- [x] Multiprocess
+- [x] Coroutine
+
+#### Programming
+- [x] Websocket
+- [x] RESTful API
+- [x] Cluster Systems
+- [x] Microservice
+- [x] High Availability Systems
+- [x] Inversion of Control
+- [x] Depedency Injection
+
+#### Language:
+- [x] JavaScript
+- [x] Typescript
+- [x] SQL
+- [x] AQL
+- [x] Golang
+- [x] puml
+- [x] markdown
+- [x] shell script
+
+#### Domain Knowledge:
+- [x] Casino Management System
+- [x] Slot Game
+- [x] Texas Hold'em Game
+- [x] Poker Game
+- [x] Fish Game
+- [x] mahjong[麻將] game
+
+#### Framework & Tools
+- [x] Nodejs
+- [x] Redis Cluster
+- [x] Docker
+- [x] Mysql
+- [x] ArangoDB
+- [x] Jenkins
+- [x] Mssql
+- [x] Swagger
+- [x] Nginx
+- [x] Jira
+- [x] Git
+- [x] PM2
+- [x] Nats
+- [x] Jetstream
   
 
-- ### **工作簡歷**
+ ### **工作簡歷**
 
 	- #### **天堂遊戲- 電子遊戲部-技術經理 (管理 55 人） 2019 / 10 ~ NOW**
 
