@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thai-wu-resume.ggttoo44.chatgpt.site/sitemap.xml
